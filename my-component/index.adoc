@@ -1,0 +1,7 @@
+= My Component
+:doctype: book
+:toc: left
+
+== Welcome to My Component
+
+This is the start page of the documentation.
